@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/AgtLucas/browserify-playground/issues"
   },
-  "homepage": "https://github.com/AgtLucas/browserify-playground"
+  "homepage": "https://github.com/AgtLucas/browserify-playground",
+  "dependencies": {
+    "uniq": "^1.0.0"
+  }
 }
