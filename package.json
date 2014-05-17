@@ -1,0 +1,19 @@
+{
+  "name": "browserify-playground",
+  "version": "0.0.0",
+  "description": "browserify-playground =====================",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/AgtLucas/browserify-playground.git"
+  },
+  "author": "Lucas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AgtLucas/browserify-playground/issues"
+  },
+  "homepage": "https://github.com/AgtLucas/browserify-playground"
+}
